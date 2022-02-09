@@ -1,0 +1,775 @@
+id,sequence,name,length,chirality,linear/cyclic,source,category,N_TERMINAL_MODIFICATION,C_TERMINAL_MODIFICATION,CHEMICAL_MODIFICATION,cargo,pubmedid
+2010,YGRKKRRQRRR,Tat-AIE dots,11,L,Linear,Protein derived,Amphipathic,Free,Free,NA,TPETPAFN and TPAFN,23359649
+2017,GRKKRRQRRRPQ,HIV-1 TAT peptide--Crystallins,12,L,Linear,Protein derived,NA,Free,Free,NA,Protein (Human B-Crystallin),23150610
+2022,NYRWRCKNQN,ECP(32-41),10,L,Linear,Protein derived,Cationic,Free,Free,NA,"Fluorophore (FITC), Protein (eGFP) and Peptide (KLA)",23469189
+2023,NYQRRCKNQN,EDN(32-41),10,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2024,NYQWRCKNQN,ECP(32-41)R3Q,10,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2025,NYRRRCKNQN,ECP(32-41)W4R,10,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2026,YRWRCKNQN,ECP(33-41),9,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2027,NYRWRCKNQ,ECP(32-40),9,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2028,YRWRCKNQ,ECP(33-40),8,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2029,NYRWRCKN,ECP(32-39),8,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2030,RWRCKNQN,ECP(34-41),8,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2031,NYRWRCK,ECP(32-38),7,L,Linear,Protein derived,Cationic,Free,Free,NA,Fluorophore (FITC),23469189
+2032,GRKKRRQRRRP,TAT(47-57),11,L,Linear,Protein derived,Amphipathic,Free,Free,NA,Fluorophore (FITC),23469189
+2039,LLIILRRRIRKQAHAHSK,FAM-pVEC,18,L,Linear,Protein derived,NA,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore [5(6)-carboxyfluorescein (FAM)],23350661
+2044,RKKRRQRRRGC,Tat-Cys,11,L,Linear,Protein derived,Cationic,Free,Amidation,NA,Fluorophore (TMR-5(6)C2- maleimide),23322746
+2054,GRKKRRQRRRG,TAT,11,L,Linear,Protein derived,Cationic,Conjugation with carboxytetramethyl rhodamine B,Amidation,NA,"Fluorophore (TMR, Alexa fluors and Cy3)",23278754
+2061,GGRRARRRRRR,CTP,11,L,Linear,Protein derived,NA,Free,Free,NA,Peptide (HBcAg18 27-Tapasin),23299079
+2089,YGRKKRRQRRR,6His-TAT-Ainp1,11,L,Linear,Protein derived,Cationic,Free,Free,Histidine tagged,Peptide (Ainp1),23454269
+2090,YGRKKRRQRRR,6His-TAT-GFP,11,L,Linear,Protein derived,Cationic,Free,Free,Histidine tagged,Protein (eGFP),23454269
+2091,YGRKKRRQRRR,6xHis-TAT-SOD,11,L,Linear,Protein derived,Cationic,Free,Free,Histidine tagged,"Protein (Cu,Zn-superoxide dismutase)",23289802
+2092,YTFGLKTSFNVQ,Ypep-GFP,12,L,Linear,Protein derived,NA,Free,Free,NA,"Protein (eGFP), Phage",23521800
+2093,YTFGLKTSFNVQYTFGLKTSFNVQ,Ypep-GFP-Ypep,24,L,Linear,Protein derived,NA,Free,Free,NA,"Protein (eGFP), Phage",23521800
+2094,YGRKKRRQRRR,Tat-GFP,11,L,Linear,Protein derived,NA,Free,Free,NA,Protein (eGFP),23521800
+2095,YGRKKRRQRRRYGRKKRRQRRR,Tat-GFP-Tat,22,L,Linear,Protein derived,NA,Free,Free,NA,Protein (eGFP),23521800
+2096,RQIKIWFQNRRMKWKK,Pen-GFP,16,L,Linear,Protein derived,Amphipathic,Free,Free,NA,Protein (eGFP),23521800
+2097,RQIKIWFQNRRMKWKKRQIKIWFQNRRMKWK,Pen-GFP-Pen,31,L,Linear,Protein derived,Amphipathic,Free,Free,NA,Protein (eGFP),23521800
+2102,LSTAADMQGVVTDGMASGLDKDYLKPDD,p28,28,L,Linear,Protein derived,Anionic,Free,Free,NA,NA,23736031
+2103,LSTAADMQGVVTDGMASGLDKDYLKPDD,p28,28,L,Linear,Protein derived,Anionic,Free,Free,NA,NA,23952735
+2121,YGRKKRRQRRR,TAT,11,L,Linear,Protein derived,NA,Free,NA,NA,Small molecule drug (Doxorubicin and Paclitaxel),23792465
+2126,RQIKIWFQNRRMKWKK,L-Penetratin,16,L,Linear,Protein derived,Amphipathic,Free,Free,NA,Protein (Insulin),24060698
+2128,TAMRAVDKLLLHLKKLFREGQFNRNFESIIICRDRT,IL-13p,36,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (Coumarin-6 and DiR),24120853
+2129,YGRKKRRQRRR,TAT-gelonin,11,L,Linear,Protein derived,Cationic,Free,Free,NA,Protein (gelonin),25204286
+2148,CIGAVLKVLTTGLPALISWIKRKRQQ,Melittin,26,L,Linear,Protein derived,Amphipathic,Free,Free,NA,PNA,25185512
+2151,RRRRRRRQIKILFQNRRMKWKKGGC,R6-Pen(W-L),25,L,Linear,Protein derived,Cationic,Free,Free,Linker Di-Glycine,PNA,25185512
+2161,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),24973720
+2162,rqikiwfqnrrmkwkk,Penetratin,16,D,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),24973720
+2169,CGYGRKKRRQRRRGC,TAT,15,L,Cyclic,Protein derived,Cationic,Free,Free,NA,Nucleic acid (pDNA),24985759
+2170,VSRRRRRRGGRRRR,C24-LMWP,14,L,Linear,Protein derived,Cationic,C24 chain composed of two 12-aminododecanoic acid (ADA) added at N terminal,NA,NA,Nanoparticle (PLGA-NPs),25003794
+2171,GWTLNSAGYLLGKINLKALAALAKKIL,Transportan,27,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2172,KLALKLALKALKAALKLA,MAP,18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2173,GRKKRRQRRRPPQ,pTat,13,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2174,RQIKIWFQNRRMKWKK,pAntp,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2176,CSSLDEPGRGGFSSESKV,1A,18,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2177,AGYLLGKINLKALAALAKKIL,TP10,21,L,Linear,Protein derived,Amphipathic,Conjugation with Oregon Green 488,Amidation,NA,Fluorophore (Oregon Green 488),25016968
+2178,KCFQWQRNMRKVRGPPVSCIKR,hLF WT,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2179,KCFQWQRNMRKVRGPPVSCIKR,hLF W5A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2180,KCFQWQRNMRKVRGPPVSCIKR,hLF Q6A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2181,KCFQWQRNMRKVRGPPVSCIKR,hLF M9A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2182,KCFQWQRNMRKVRGPPVSCIKR,hLF P15A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2183,KCFQWQRNMRKVRGPPVSCIKR,hLF V12R,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2184,KCFQWQRNMRKVRGPPVSCIKR,hLF R7A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2185,KCFQWQRNMRKVRGPPVSCIKR,hLF R13A,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2186,KCFQWQRNMRKVRGPPVSCIKR,hLF R7A/V12R,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2187,KCFQWQRNMRKVRGPPVSCIKR,hLF R13A/P15R,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2188,KCFQWQRNMRKVRGPPVSCIKR,hLF +4R,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2189,KCFQWQRNMRKVRGPPVSCIKR,hLF lin+4R,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2190,KCFQWQRNMRKVRGPPVSCIKR,hLF R7,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2191,KCFQWQRNMRKVRGPPVSCIKR,hLF K7,22,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Fluorescein),24270856
+2192,K-Hey-FQWQRNMRKVRGPPVS-Hey-IKR,hLF Hcy,20,Modified,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,"hcy, homocysteine in which the side chain is one methylene group longer than in cysteine",Fluorophore (Fluorescein),24270856
+2221,YGRKKRRQRRR,EGFP-TAT,11,L,Linear,Protein derived,Cationic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2222,RQIKIWFQNRRMKWKK,EGFP-Antp,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2223,DAATARGRGRSAASRPTERPRAPARSASRPRRPVD,EGFP-VP_22,35,L,Linear,Protein derived,Amphipathic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2224,LLIILRRRIRKQAHAHSK,EGFP-pVEC,18,L,Linear,Protein derived,Amphipathic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2225,GSVSRRRRRRGGRRRR,EGFP-LMWP,16,L,Linear,Protein derived,Cationic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2226,LGTYTQDFNKFHTFPQTAIGVGAP,EGFP-hcT(9-32),24,L,Linear,Protein derived,Amphipathic,Conjugated with EGFP,Free,NA,Protein (eGFP),24746937
+2233,CRQIKIWFQNRRMKWKK,Penetratin,17,L,Linear,Protein derived,Cationic and amphipathic,Acetylation,Amidation,NA,Peptide (KLA) and Nanoparticle (DSPC and DSPG liposomes),24796502
+2239,RKKNPNCRRH,hBCPP,10,L,Linear,Protein derived,Cationic,Free,Free,NA,Peptide (Smurf1-binding peptide),24831974
+2242,GRKKRRQRRRPPQY,Tat-Dex,14,L,Cyclic,Protein derived,Cationic,Free,Amidation,Dexamethasone,Dexamethasone,24896852
+2249,RKKRRQRRR,Tat-PCP,9,L,Linear,Protein derived,Cationic,Acetylation,Amidation,"Φ, L-2-naphthylalanine,miniPEG, 8-amino-3,6-dioxaoctanoic acid","Peptide [PCP, miniPEG-DE(pCAP)LI-NH2]",24896852
+2250,RQIKIWFQNRRMKWKK,Antp-PCP,16,L,Linear,Protein derived,Cationic and amphipathic,Acetylation,Amidation,"Φ, L-2-naphthylalanine,miniPEG, 8-amino-3,6-dioxaoctanoic acid","Peptide [PCP, miniPEG-DE(pCAP)LI-NH2]",24896852
+2268,LCLRPVG,Xentry peptides,7,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2269,LCLRP,Xentry peptides,5,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2270,LCLR,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2271,LLR,Xentry peptides,3,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2272,LLLR,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2273,LLLLR,Xentry peptides,5,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2274,LLLRR,Xentry peptides,5,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2275,IIIR,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2276,VVVR,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2277,LCLK,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2278,LCLH,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2279,LCLE,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2280,LCLN,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2281,LCLQ,Xentry peptides,4,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2282,lclrpvg,Xentry peptides,7,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2283,lclrp,Xentry peptides,5,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2284,lclr,Xentry peptides,4,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2285,lcl,Xentry peptides,3,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2286,icir,Xentry peptides,4,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2287,vcvr,Xentry peptides,4,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2288,vlclr,Xentry peptides,5,D,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC- and TAMRA),24811205
+2291,YGRKKRRQRRR,P42-TAT,11,L,Linear,Protein derived,Cationic,Free,Free,NA,P42-TAT incorporated in a water-in-oil microemulsion,25091984
+2294,RQIKIWFQNRRMKWKK,F(SG)4Pen,16,L,Linear,Protein derived,Cationic and amphipathic,Acetylation,Amidation,NA,"Fluorophore (Alexa488), Protein (bovine serum albumin) and Nanoparticle (quantum dots)",25108152
+2295,RQIKIWFQNRRMKWKK,G(SG)4Pen,16,L,Linear,Protein derived,Cationic and amphipathic,Acetylation,Amidation,NA,"Fluorophore (Alexa488), Protein (bovine serum albumin) and Nanoparticle (quantum dots)",25108152
+2296,AGYLLGKINLKALAALAKKIL,F(SG)4TP10,21,L,Linear,Protein derived,Amphipathic,Acetylation,Amidation,NA,"Fluorophore (Alexa488), Protein (bovine serum albumin) and Nanoparticle (quantum dots)",25108152
+2297,AGYLLGKINLKALAALAKKIL,G(SG)4TP10,21,L,Linear,Protein derived,Amphipathic,Acetylation,Amidation,NA,"Fluorophore (Alexa488), Protein (bovine serum albumin) and Nanoparticle (quantum dots)",25108152
+2298,RGDfK,cRGD,5,L,Cyclic,Protein derived,NA,Cycliclization,Cyclization,NA,"Fluorophore (Alexa488), Protein (bovine serum albumin) and Nanoparticle (quantum dots)",25108152
+2303,CGGKDCERRFSRSDQLKRHQRRHTGVKPFQ,b-WT1-pTj,30,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,24490140
+2304,KDCERRFSRSDQLKRHQRRHTGVKPFQK,FITC-WT1-pTj,28,L,Linear,Protein derived,Cationic,Free,NA,NA,Fluorophore (FITC),24490140
+2311,YGRKKRRQRRR,TAT(47-57),11,L,Linear,Protein derived,Cationic,Free,Free,NA,Peptide (Mitochondrial Target Domain of NOXA),24416126
+2312,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Peptide (Mitochondrial Target Domain of NOXA),24416126
+2314,RIMRILRILKLAR,DS4.3,13,L,Linear,Protein derived,NA,Free,Free,NA,Peptide (Mitochondrial Target Domain of NOXA),24416126
+2317,YGRKKRRQRRR,TAT(47-57),11,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin-gly4,25112713
+2319,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Biotinylation,Amidation,NA,Biotin-gly4,25112713
+2321,RKKRRQRRRGGG,Tat,12,L,Linear,Protein derived,Cationic,Free,Amidation,NA,Fluorophore (TAMRA),24218116
+2323,RQIKIWFQNRRMKWKK,Penetratin (Antennapedia),16,L,Linear,Protein derived,Cationic,Free,Free,NA,"Protein (ATTO488-BSA, ?-galactosidase)",24275947
+2324,YGRKKRRQRRR,HIV-TAT (47-57),11,L,Linear,Protein derived,Cationic,Free,Amidation,NA,"Protein (ATTO488-BSA, ?-galactosidase)",24275947
+2330,YGRKKRRQRRRC,Tat-C-Cy5,12,L,Linear,Protein derived,Cationic,Free,Cysteine addition,NA,Fluorophore (Cy5),24276021
+2331,RQIKIWFQNRRMKWKKC,Pen-C-Cy5,17,L,Linear,Protein derived,Cationic and amphipathic,Free,Cysteine addition,NA,Fluorophore (Cy5),24276021
+2341,GRKKRRQRRRPPQK,TAT,14,L,Linear,Protein derived,Cationic,Conjugation with 5-carboxyfluorescein via a lysine residue,Free,NA,Fluorophore [5-carboxyfluorescein (FAM)],24521351
+2342,RQIKIWFQNRRMKWKKK,Penetratin,17,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with 5-carboxyfluorescein via a lysine residue,Free,NA,Fluorophore [5-carboxyfluorescein (FAM)],24521351
+2347,YGRKKRRQRRR,TAT-ELPBC,11,L,Linear,Protein derived,Cationic,Conjugation with ELPBC,Free,NA,Peptide (BH3 peptide drug and ELPBC),24611762
+2412,YGRKKRRQRRRGC,TAT,13,L,Linear,Protein derived,Cationic,Free,Amidation,NA,NA,24867193
+2413,YGRKKRRQRRR,Tat,11,L,Linear,Protein derived,Cationic,Free,Amidation,NA,Fluorophore [5(6)-carboxyfluorescein],24870379
+2428,LLIILRRRIRKQAHAHSK,pVEC,18,L,Linear,Protein derived,Amphipathic,Free,Amidation,NA,Fluorophore [5(6)-carboxyfluorescein],24870379
+2436,VTPHHVLVDEYTGEWVDSQFK,VG-21,21,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC),25154664
+2441,YGRKKRRQRRR,PNIPAM-FL-TAT Peptide,11,L,Linear,Protein derived,Cationic,Conjugated with PNIPAM-FL molecule,Free,NA,Nanoparticle [poly(N-isopropylacrylamide) (PNIPAM) microgel particles],25170605
+2450,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),24973720
+2451,rqikiwfqnrrmkwkk,Penetratin,16,D,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),24973720
+2468,YGRKKRRQRRRPPQG,TAT,15,L,Linear,Protein derived,Cationic,Conjugation with Alexa Flour 488,Free,NA,Fluorophore (Alexa Fluor 488),24985034
+2470,VSRRRRRRGGRRRR,C24-LMWP,14,L,Linear,Protein derived,Cationic,Free,Free,NA,"Nanoparticle (LMWP/PLGA nanoparticles), Small molecule drug (Doxorubicin)",25003794
+2471,HSDAVFTDNYTALRKQMAVKKYLNSILNYGRKKRRQRRR,VIP-TAT,39,L,Linear,Protein derived,Cationic,Conjugated with VIP,Free,NA,Fluorophore (FITC),25086267
+2475,GRKKRRQRRR,Cys(BSH)-TAT,10,L,Linear,Protein derived,Cationic,Addition of cysteine and BSH,NA,NA,BSH,24452095
+2477,CGRKKRRQRRRPPQ,NTD,14,L,Linear,Protein derived,Cationic,Acetylation,Amidation,Doxorubicin is attached by a cathepsin B degradable tetrapeptide linker (-Gly-Phe-Leu-Gly-).,Small molecule drug (Doxorubicin),24892976
+2478,KGRKKRRQRRRPPQ,d-NTD,14,L,Linear,Protein derived,Cationic,Acetylation,Amidation,Doxorubicin is attached by a cathepsin B degradable tetrapeptide linker (-Gly-Phe-Leu-Gly-).,Small molecule drug (Doxorubicin),24892976
+2479,KGRKKRRQRRRPPQ,q-NTD,14,L,Linear,Protein derived,Cationic,Acetylation,Amidation,Doxorubicin is attached by a cathepsin B degradable tetrapeptide linker (-Gly-Phe-Leu-Gly-).,Small molecule drug (Doxorubicin),24892976
+2480,CGRKKRRQRRRPPQ,n-NTD,14,L,Linear,Protein derived,Cationic,Acetylation,Amidation,Doxorubicin is attached by a cathepsin B degradable tetrapeptide linker (-Gly-Phe-Leu-Gly-).,Small molecule drug (Doxorubicin),24892976
+2481,CGRKKRRQRRRPPQ,C16NTD,14,L,Linear,Protein derived,Cationic,Palmitoylation,Amidation,Doxorubicin is attached by a cathepsin B degradable tetrapeptide linker (-Gly-Phe-Leu-Gly-).,Small molecule drug (Doxorubicin),24892976
+2491,CGYGRKKRRQRRRGC,Tat,15,L,Linear,Protein derived,Cationic,Free,Free,NA,"Ultrasound contrast agent (UCA), Fluorophore (FITC)",24985759
+2494,GRKKRRQRRRPPQ,pTat,13,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2495,RQIKIWFQNRRMKWKK,pAntp,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (Fluorescein),25016968
+2503,YGRKKRRQRRR,TAT-BID,11,L,Linear,Protein derived,Cationic,Conjugation with 6-histidine tag,Conjugation with BID-3xHA,NA,Protein (BID),25326334
+2504,YGRKKRRQRRR,TAT-lyophiliosomes,11,L,Linear,Protein derived,Cationic,Conjugated with lyophilisome via cysteine linker,Free,NA,Nanoparticle (Lyophiliosomes and FITC labelled),25369131
+2506,YGRKKRRQRRR,Tat,11,Modified,Linear,Protein derived,Cationic,Free,Conjugation with Avidin-FITC,Biotinylation,Protein (Avidin-FITC),25387797
+2514,RKKRRQRRRRKKRRQRRR,Tat2-Nat,18,L,Linear,Protein derived,Cationic,Conjugation with FITC,Conjugation with natamycin,NA,"Small molecule drug (Natamycin), Fluorophore (FITC)",25467959
+2517,CAYGRKKRRQRRR,TAT-LP-PTX,13,L,Linear,Protein derived,Cationic,Cysteine addition,Conjugation with rhodamine LP,NA,Nanoparticle (Liposome),25482610
+2518,CAYGRKKRRQRRR,T7/TAT-LP-PTX,13,L,Linear,Protein derived,Cationic,Conjugated with T7,Conjugation with rhodamine LP,NA,Nanoparticle (Liposome),25482610
+2525,KWCFRVCYRGICYRRCRGK,Tpl,19,L,Linear,Protein derived,NA,Biotinylation,Free,NA,"Protein (?-glucuronidase enzyme, ?-galactosidase)",25514997
+2542,CTSTTAKRKKRKLK,LI,14,L,Linear,Protein derived,NA,Addition of cysteine,Free,NA,Nucleic acid (Plasmid DNA and siRNA),23769994
+2543,YGRKKRRQRRR,CF-TAT-substrate,11,L,Linear,Protein derived,NA,Conjugation with 5(6)-carboxyfluorescein N-hydroxysuccinimidyl ester,Conjugation with substrate,NA,"Fluorophore (Fluorescein), substrate",23621550
+2544,YGRKKRRQRRR,Ac-TAT-substrate,11,L,Linear,Protein derived,NA,Acetylation,Conjugation with substrate,NA,"Fluorophore (Fluorescein), substrate",23621550
+2545,KKWKMRRNQFWIKIQR,CF-Penetratin-substrate,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Conjugation with substrate,NA,"Fluorophore (Fluorescein), substrate",23621550
+2546,KKWKMRRNQFWIKIQR,Ac-Penetratin-substrate,16,L,Linear,Protein derived,Cationic and amphipathic,Acetylation,Conjugation with substrate,NA,"Fluorophore (Fluorescein), substrate",23621550
+2548,RQIKIWFQNRRMKWKKGG,CS-Lin-Pen,18,L,Linear,Protein derived,Cationic,Conjugated to CS-Lin,Free,NA,Nanoparticles (FITC labeled CS-Lin),24083483
+2549,MRRIRPRPPRLPRPRPRPLPFPRPGGCYPG,Bac-ELP-H1,30,L,Linear,Protein derived,Cationic,Free,Conjugation with ELP-Rho,NA,Peptide (Rhodamine labeled ELP),23372821
+2550,RGGRLSYSRRRFSTSTGRA,SynB1-ELP-H1,19,L,Linear,Protein derived,Amphipathic,Free,Conjugation with ELP-Rho,NA,Peptide (Rhodamine labeled ELP),23372821
+2551,YGRKKRRQRRR,ST1-104,11,L,Linear,Protein derived,Cationic,Free,Conjugation with CBD3 peptide of CRMP2,NA,Peptide [Ca2+ channel binding domain 9CBD3)],23106100
+2552,YGRKKRRQRRR,ST9-104,11,L,Linear,Protein derived,Cationic,Free,Conjugation with reverse sequence of CBD3 peptide of CRMP2,NA,Peptide [Ca2+ channel binding domain 9CBD3)],23106100
+2555,YGDCLPHLKLCKENKDCCSKKCKRRGTNIEKRCR,I-TYR-L-Mca,34,L,Linear,Protein derived,Cationic,Conjugated with radio-ionized Tyr residue,Free,NA,Radiolabelled Iodine (125I),24667409
+2558,GRKKRRQRRR,Tm3+-DOTA-CAT,10,L,Linear,Protein derived,Cationic,Conjugated with Tm³⁺-DOTA via CAT recognition site,Free,NA,MRI probe [DOTA-caged metal ion (Tm³?)],23281285
+2559,GRKKRRQRRR,Gd3+-DOTA-CAT,10,L,Linear,Protein derived,Cationic,Conjugated with Gd³⁺-DOTA via CAT recognition site,Free,NA,MRI probe [DOTA-caged metal ion (Gd³?)],23281285
+2563,YGRKKRRQRRR,TAT-EGFP,11,L,Linear,Protein derived,Cationic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2564,RQIKIWFQNRRMKWKK,Antp-EGFP,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2565,DAATARGRGRSAASRPTERPRAPARSASRPRRPVD,VP-22-EGFP,35,L,Linear,Protein derived,Amphipathic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2566,LLIILRRRIRKQAHAHSK,pVEC-EGFP,18,L,Linear,Protein derived,Amphipathic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2567,GSVSRRRRRRGGRRRR,LMWP-EGFP,16,L,Linear,Protein derived,Cationic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2568,LGTYTQDFNKFHTFPQTAIGVGAP,hcT(9-32)-EGFP,24,L,Linear,Protein derived,Amphipathic,Conjugation with EGFP,Free,NA,Protein (eGFP),24746937
+2580,CKYGRKKRRQRRR,fTAT,13,L,Linear,Protein derived,Cationic,Extra Cys and Lys added for labeling of TMR,Free,NA,Fluorophore (TMR),24930129
+2581,RRRQRRKKRGYCKCKYGRKKRRQRRR,dfTAT,26,L,Linear,Protein derived,Cationic,Extra Cys and Lys added for labeling of TMR and dimerization,Free,NA,"Protein (eGFP), Fluorophore (TMR)",24930129
+2582,CKYGRKKRRQRRR,acFTAT,13,L,Linear,Protein derived,Cationic,Acetamidation,Free,NA,Fluorophore (TMR),24930129
+2583,RRRQRRKKRGYCKCKYGRKKRRQRRR,nrdfTAT,26,L,Linear,Protein derived,Cationic,bis(maleimido)ethane added,Free,NA,Fluorophore (TMR),24930129
+2584,AYGRKKRRQRRR,DOX-TAT-LIP,12,L,Linear,Protein derived,Cationic,Cysteine addition,Free,NA,"Nanaoparticle (Liposome), Small molecule drug (Doxorubicin)",24893333
+2585,AYGRKKRRQRRR,DOX-T7-TAT-LIP,12,L,Linear,Protein derived,Cationic,Cysteine addition,Free,NA,"Nanoparticle (Liposome), Small molecule drug (Doxorubicin), protein (Transferin)",24893333
+2587,RQIKIQFQNRRKWKK,Antennapedia,15,L,Linear,Protein derived,Cationic,Free,Free,NA,Protein (His-tagged Cre protein),24753043
+2589,GRKKRRQRRRPPQ,HIV-TAT,13,L,Linear,Protein derived,Cationic,Free,Free,NA,"Sodium diclofenac (Na-DFC), Small molecule drug [celecoxib (CLXB)]",24798650
+2590,AYGRKKRRQRRR,TAT-cysteine peptide,12,L,Linear,Protein derived,Cationic,Free,Free,NA,Nanoparticle (Liposomes),24709209
+2591,GNYAHRVGAGAPVWL,HipC,15,L,Linear,Protein derived,NA,Free,Free,NA,NA,24747525
+2592,TVDNPASTTNKDKLFAVRK,VP1 BC loop (V) peptides,19,L,Linear,Protein derived,NA,Free,Free,NA,Protein (Calcetonin),23802147
+2593,GRKKRRQRRRPPQRKC,TAT,16,L,Linear,Protein derived,Cationic,Free,Free,NA,Protein (Calcetonin),23802147
+2596,YGRKKRRQRRR,fTat,11,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Free,NA,Fluorophore (Carboxyflouresein),24657280
+2597,CCTGRKKRRQRRR,TAT,13,L,Linear,Protein derived,Cationic,Free,Free,NA,Nanoparticle,24736021
+2599,GGAYVTRSSAVRLRSSVPGVRLLQ,CF-Vim-TBS.58-81,24,L,Linear,Protein derived,NA,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Carboxyfluorescein),21575694
+2600,GRKKRRQRRRPPQ,CF-Tat.48-60,13,L,Linear,Protein derived,NA,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore (Carboxyfluorescein),21575694
+2610,RKKRRQRRR,TAT,9,L,Linear,Protein derived,Cationic,NA,NA,NA,Nucleic acid (Calcium comlexed siRNA),21856394
+2613,LLIILRRRIRKQAHAHSK,pVEC,18,L,Linear,Protein derived,Amphipathic,NA,NA,NA,Nucleic acid (Plasmid DNA),21996011
+2639,YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG,Crotamine,42,L,Linear,Protein derived,NA,NA,NA,NA,Fluorophore (Alexa 700),22142367
+2648,CAYGRKKRRQRRR,TAT,13,L,Linear,Protein derived,Cationic,Cysteine addition,NA,NA,Nanoparticle (Liposomes),22188312
+2660,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,NA,NA,NA,Nucleic acid (Plasmid DNA),22281502
+2661,RQIKIWFQNRRMKWKKC,Pen-Cys,17,L,Linear,Protein derived,Cationic and amphipathic,NA,NA,Cysteine modification,Nucleic acid (Plasmid DNA),22281502
+2677,GRKKRRQRRR,Tat,10,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,NA,NA,Fluorophore (Fluorescein),22413929
+2679,YGRKKRRQRRR,Tat,11,L,Linear,Protein derived,Cationic,NA,NA,NA,Nucleic acid (siRNA),22452378
+2712,GCGGGYGRKKRRQRRR,Tat,16,L,Linear,Protein derived,Cationic,NA,NA,NA,Nanoparticle,22531849
+2718,CGGGYGRKKRRQRRR,AgNP-TAT,15,L,Linear,Protein derived,Cationic,NA,NA,NA,Nanosilver Nanoparticles,22682937
+2727,YKQCHKKGGHCFPKEKICLPPSSDFGKMDCRWRWKCCKKGSG,Crotamine,42,L,Linear,Protein derived,NA,NA,NA,NA,Nucleic acid,22791447
+2728,YGRKKRPQRRR,1 (TAT),11,L,Linear,Protein derived,Cationic,NA,NA,NA,Fluorophore (FITC),22805558
+2757,RQIKIWFQNRRMKWKK,penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,NA,NA,PEGylation,Nanoparticle (PEG-PLA),22841849
+2772,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Single-Chain Antibody),23160949
+2773,CALNN-YGRKKRRQRRR,Tat,16,L,Linear,Protein derived,Cationic,Free,Free,NA,Nanoparticle (Quantum dots),23184894
+2804,AYLLGKINLKALAALAKKIL,TP10,20,L,Linear,Protein derived,Amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,NA,Fluorophore [5(6)-carboxyfluorescein],23669260
+2805,A-CF3-Bpg-LYLLGKINLKALAALAKKIL,TP10 2GL,21,Modified,Linear,Protein derived,Amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,"L-CF3-Bpg, Trifluoromethyl- bicyclopent-[1.1.1]-1-ylglycine",Fluorophore [5(6)-carboxyfluorescein],23669260
+2806,AGY-CF3-Bpg-LGKINLKALAALAKKIL,TP10 4LL,20,Modified,Linear,Protein derived,Amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,"L-CF3-Bpg, Trifluoromethyl- bicyclopent-[1.1.1]-1-ylglycine",Fluorophore [5(6)-carboxyfluorescein],23669260
+2807,a-CF3-Bpg-lyllgkinlkalaalakkil,TP10 2GD,21,Modified,Linear,Protein derived,Amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,"L-CF3-Bpg, Trifluoromethyl- bicyclopent-[1.1.1]-1-ylglycine",Fluorophore [5(6)-carboxyfluorescein],23669260
+2808,agy-CF3-Bpg-lgkinlkalaalakkil,TP10 4LD,20,Modified,Linear,Protein derived,Amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Amidation,"L-CF3-Bpg, Trifluoromethyl- bicyclopent-[1.1.1]-1-ylglycine",Fluorophore [5(6)-carboxyfluorescein],23669260
+2816,GRKKRRQRRRPPQ,Tat (48-60),13,L,Linear,Protein derived,Cationic,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B),23707662
+2817,GRKKRRQRRRPPQRKC,Tat,16,L,Linear,Protein derived,Cationic,Free,Free,NA,Protein [synthetic salmon CT (sCT)],23802147
+2818,GRKKRRERRRPPERKCX,Tat,17,L,Linear,Protein derived,Cationic,Free,Free,NA,Peptide [VP1 BC loop (V) peptides],23802147
+2820,EARPALLTSRLRFIPK,GV1001,16,L,Linear,Protein derived,NA,Free,Free,NA,Protein (eGFP),23827187
+2822,GRKKRRQRRR,Tat (TG),10,L,Linear,Protein derived,Cationic,NA,NA,NA,"Protein (GFP, anti-oxidative metallothionein protein)",23871961
+2823,GRKKRRQRRRMVSAL,TatsMTS (TMG),15,L,Linear,Protein derived,Cationic,NA,NA,NA,"Protein (GFP, anti-oxidative metallothionein protein)",23871961
+2824,TPWWRLWTKWHHKRRDLPRKPEGC,FITC-Rath,24,L,Linear,Protein derived,NA,NA,Free,NA,Fluorophore (FITC),23937069
+2825,TPWWRLWTKWHHKRRDLPRKPEGC,Rath-FITC,24,L,Linear,Protein derived,NA,NA,Free,NA,Fluorophore (FITC),23937069
+2828,MIIYRDLISH,TCTPPTD,10,L,Linear,Protein derived,NA,Free,Free,NA,Protein (eGFP),23256924
+2829,YSSYSAPVSSSLSVRRSYSSSSGS,NFL-TBS.40-63,24,L,Linear,Protein derived,NA,Free,Free,Biotinylation,Fluorophore (FITC),23603097
+2830,GRKKRRQRRRPPQ,Tat.48-60,13,L,Linear,Protein derived,Cationic,Free,Free,Biotinylation,Fluorophore (FITC),23603097
+2831,RQIKIWFQNRRMKWKK,Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2832,GRKKRRQRRRPPQ,Tat,13,L,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2833,CSIPPEVKFNKPFVYLI,C105Y,17,L,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2834,INLKKLAKL(Aib)KKIL,Mitoparan (MitP),14,Modified,Linear,Protein derived,NA,Free,Amidation,"Aib, α-amino isobutyric acid",Fluorophore (TAMRA),23585561
+2835,inlkklakl(Aib)kkil,Inverso mitoparan (iMitP),14,Modified,Linear,Protein derived,NA,Free,Amidation,"Aib, α-amino isobutyric acid",Fluorophore (TAMRA),23585561
+2836,inlkalaalakkil,Inverso mastoparan (iMP),14,D,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2837,AGYLLGKINLKALAALAKKIL,Transportan 10 (TP10),21,L,Linear,Protein derived,Amphipathic,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2838,RKLTTIFPLNWKYRKALSLG,Camptide,20,L,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2839,KGKKIFIMK,Cyt c (5-13),9,L,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2840,DITYRFRGPDWL,rV1aR (102-113a),12,L,Linear,Protein derived,NA,Free,Amidation,NA,Fluorophore (TAMRA),23585561
+2889,KKKKKKNKKLQQRGD,P1,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2890,RGDGPRRRPRKRRGR,P2,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2891,RRRQKRIVVRRRLIR,P3,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2892,RRVWRRYRRQRWCRR,P4,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2893,RRARRPRRLRPAPGR,P5,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2894,LLRARWRRRRSRRFR,P6,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2895,RGPRRQPRRHRRPRR,P7,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2896,RRWRRWNRFNRRRCR,P8,15,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2897,GRKKRRQRRRPPQ,Tat,13,L,Linear,Protein derived,Cationic,Conjugation with FITC,Free,Linker 6-aminohexamoic acid (Ahx),Fluorophore (FITC),25459448
+2898,HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,PACAP,38,L,Linear,Protein derived,Cationic,Free,Amidation,NA,Fluorophore (Fluorescien),25447531
+2899,RQIKIWFQNRRMKWKK,L-Penetratin,16,L,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),25445695
+2900,rqikiwfqnrrmkwkk,D-Penetratin,16,D,Linear,Protein derived,Cationic and amphipathic,Free,Free,NA,Protein (Insulin),25445695
+2901,MAARLCCQLDPARDVLCLRP,N-terminus of X-Pep,20,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC),25251474
+2902,MAARLCCQLDPARDV,N-terminus of X-Pep,15,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC),25251474
+2903,MAARLCCQ,X-Pep,8,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC),25251474
+2904,MAARL,X-Pep derivative,5,L,Linear,Protein derived,NA,Free,Free,NA,Fluorophore (FITC),25251474
+2905,YGRKKRRQRRR,TAT (47-57),11,L,Linear,Protein derived,Cationic,Free,Free,NA,Nanoparticle (Quantum dots),25570933
+2907,RRLSYSRRRF,SynB3,10,L,Linear,Protein derived,Cationic,Free,Free,NA,Protein (Endomorphin-1),25245547
+2953,NYRWRCKNQN,CPPecp,10,L,Linear,Protein derived,NA,Conjugation with FITC,Free,NA,Nanoparticle,26064887
+2955,RQIKIWFQNRRMKWKK,Antp,16,L,Linear,Protein derived,Cationic and amphipathic,Conjugation with 5(6)-Carboxyfluorescein,Free,NA,Fluorophore (5-Carboxyfluorescein),25894337
+2956,RKKRRQRRR,Tat(49–57),9,L,Linear,Protein derived,Cationic,Conjugation with 5(6)-Carboxyfluorescein,Free,NA,Fluorophore (5-Carboxyfluorescein),25894337
+2959,CGGGARKKAAKAARKKAAKAARKKAAKAARKKAAKA,POD,36,L,Linear,Protein derived,Cationic,Conjugation with rhodamine B,Conjugation with nanoparticle,NA,Nanoparticle,25670897
+2984,YKQCHKKGGKKGSG,NrTP1,14,L,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B ),25620660
+2985,YKQCHKKGG-ahx-KKGSG,NrTP2,14,Modified,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,"Ahx, 6-aminohexanoic acid",Fluorophore (Rhodamine B ),25620660
+2986,ykqchkkGGkkGsG,NrTP5,14,D,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B ),25620660
+2987,YKQSHKKGGKKGSG,NrTP6,14,L,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B ),25620660
+2988,YRQSHRRGGRRGSG,NrTP7,14,L,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B ),25620660
+2989,WKQSHKKGGKKGSG,NrTP8,14,L,Linear,Protein derived,NA,Conjugation with rhodamine B,Free,NA,Fluorophore (Rhodamine B ),25620660
+2990,AGY(PO3)LLGKTNLKALAALAKKIL,NF 1,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,Phosphorylation,Nucleic acid (SCO),0
+2991,AGYLLGKT(PO3)NLKALAALAKKIL,NF 2,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,Phosphorylation,Nucleic acid (SCO),0
+2992,AGY(PO3)LLGKT(PO3)NLKALAALAKKIL,NF 3,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,Phosphorylation,Nucleic acid (SCO),0
+2993,AGY(PO3)LLGKINLKALAALAKKIL,NF 5,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,Phosphorylation,Nucleic acid (SCO),0
+2994,AGYLLGKTNLKALAALAKKIL,NF 11,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,NA,Nucleic acid (SCO),0
+2995,δ - (Stearyl-AGYLLG) OINLKALAALAKKIL,NF 51,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,"O, Ornithine",Nucleic acid (pGL3 plasmid),0
+2996,"α, ε (Stearyl-AGYLLG)2KINLKALAALAKKIL",NF 52,27,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,NA,Nucleic acid (pGL3 plasmid),0
+2997,ε - (Steary- AGYLLG)KINLKALAALAKKIL,NF 53,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,NA,Nucleic acid (pGL3 plasmid),0
+2998,AGYLLGKINLKALAALAKKIL,Stearyl-TP10,21,Modified,Linear,Protein derived,Amphipathic,Stearylation,Amidation,NA,Nucleic acid (SCO),0
+3007,RQIKIWFQNRRMKWKK,Pen,16,L,Linear,Protein derived,Cationic and Amphipathic,NA,Amidation,NA,Nucleic acid (SCO),0
+1001,GRKKRRQRRRPPQ,Tat (48-60),13,L,Linear,Protein derived,Cationic,Labelled with Cys-acetamidomethyl,Conjugation with fluorescein maleimide,NA,Fluorophore (fluorescein),9188504
+1002,LGISYGRKKRRQRRRPPQ,Tat (43-60),18,L,Linear,Protein derived,Cationic,Labelled with Cys-acetamidomethyl,Conjugation with fluorescein maleimide,NA,Fluorophore (fluorescein),9188504
+1003,FITKALGISYGRKKRRQRRRPPQ,Tat (37-60),23,L,Linear,Protein derived,Cationic,Labelled with Cys-acetamidomethyl,Conjugation with fluorescein maleimide,NA,Fluorophore (fluorescein),9188504
+1004,FITKALGISYGRKKRR,Tat (37-53),16,L,Linear,Protein derived,Cationic,Labelled with Cys-acetamidomethyl,Conjugation with fluorescein maleimide,NA,Fluorophore (fluorescein),9188504
+1005,GRKKRRQRRR,Tat (48-57),10,L,Linear,Protein derived,Cationic,Labelled with Cys-acetamidomethyl,Conjugation with fluorescein maleimide,NA,Fluorophore (fluorescein),0
+1006,RKKRRQRRR,Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1007,RKKRRQRR,Tat (49-56),8,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1008,RKKRRQR,Tat (49-55),7,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1009,KKRRQRRR,Tat (50-57),8,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1010,KRRQRRR,Tat (51-57),7,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1011,rkkrrqrrr,D-Tat (49-57),9,D,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1012,RRRQRRKKR,Retro - Tat (57-49),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1013,rrrqrrkkr,D-Tat (57-49),9,D,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1014,AKKRRQRRR,Ala49 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1015,RAKRRQRRR,Ala50 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1016,RKARRQRRR,Ala51 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1017,RKKARQRRR,Ala52 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1018,RKKRAQRRR,Ala53 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1019,RKKRRARRR,Ala54 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1020,RKKRRQARR,Ala55 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1021,RKKRRQRAR,Ala56 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1022,RKKRRQRRA,Ala57 substitution mutant of Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),11087855
+1023,GRKKRRQRRPPQC,Arg deletion mutant of Tat (48-60),13,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1024,GRKKRRQRPPQC,Arg deletion mutant of Tat (48-60),12,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1025,GRKKRRQPPQC,Arg deletion mutant of Tat (48-60),11,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1026,GRKKRRQRRRC,Pro deletion mutant of Tat (48-60),11,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1027,GRKKRRQRARPPQC,Ala substitution mutant of Tat (48-60),14,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1028,GRKKRRQARAPPQC,Ala substitution mutant of Tat (48-60),14,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein,NA,Fluorophore (fluorescein),0
+1029,TRQARRNRRRRWRERQR,Rev (34-50),17,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Cys amide,NA,Fluorophore (fluorescein),11084031
+1059,GWTLNSAGYLLGPHAVGNHRSFSDKNGLTS,Galanin,30,L,Linear,Protein derived,Unknown,Biotinyl-Gly-Gly-N 25galanin(1-29),Free,NA,Biotin,10930519
+1060,INLKALAALAKKIL,MP,14,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,10930519
+1087,RQIKIWFQNRRMKWKK,XV,16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),10323198
+1090,RQIKIWFQNRRMKWKK,pAntpHD (43-58),16,L,Linear,Protein derived,Amphipathic,Biotinylation,Amidation,NA,Biotin,8663410
+1091,KKWKMRRNQFWIKIQR,pAntpHD (58-43),16,L,Linear,Protein derived,Amphipathic,Biotinylation,Amidation,NA,Biotin,8663410
+1092,rqikiwfqnrrmkwkk,D form of pAntpHD (43-58),16,D,Linear,Protein derived,Amphipathic,Biotinylation,Amidation,NA,Biotin,8663410
+1093,RQIKIWFPNRRMKWKK,pAntpHD (Pro50),16,L,Linear,Protein derived,Unknown,Biotinylation,Amidation,NA,Biotin,8663410
+1094,RQPKIWFPNRRKPWKK,pAntpHD (3Pro),16,L,Linear,Protein derived,Unknown,Biotinylation,Amidation,NA,Biotin,8663410
+1095,RQIKIWFQNRRMKWKK,pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1096,RQIKIWFQNRRMKWK,pAntp (43-57),15,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1097,RQIKIWFQNRRMKW,pAntp (43-56),14,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1098,RQIKIWFQNRRMK,pAntp (43-55),13,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1099,RQIKIWFQNRRM,pAntp (43-54),12,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1100,RQIKIWFQNRR,pAntp (43-53),11,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1101,RQIKIWFQNR,pAntp (43-52),10,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1102,RQIKIWFQN,pAntp (43-51),9,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1103,RQIKIWFQ,pAntp (43-50),8,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1104,RQIKIW,pAntp (43-48),6,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1105,QIKIWFQNRRMKWKK,pAntp (44-58),15,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1106,IKIWFQNRRMKWKK,pAntp (45-58),14,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1107,KIWFQNRRMKWKK,pAntp (46-58),13,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1108,IWFQNRRMKWKK,pAntp (47-58),12,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1109,WFQNRRMKWKK,pAntp (48-58),11,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1110,FQNRRMKWKK,pAntp (49-58),10,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1111,QNRRMKWKK,pAntp (50-58),9,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1112,NRRMKWKK,pAntp (51-58),8,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1113,RRMKWKK,pAntp (52-58),7,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1114,RMKWKK,pAntp (53-58),6,L,Linear,Protein derived,Unknown,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1115,AQIKIWFQNRRMKWKK,Ala43 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1116,RAIKIWFQNRRMKWKK,Ala44 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1117,RQAKIWFQNRRMKWKK,Ala45 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1118,RQIAIWFQNRRMKWKK,Ala46 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1119,RQIKAWFQNRRMKWKK,Ala47 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1120,RQIKIAFQNRRMKWKK,Ala48 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1121,RQIKIWAQNRRMKWKK,Ala49 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1122,RQIKIWFANRRMKWKK,Ala50 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1123,RQIKIWFQARRMKWKK,Ala51 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1124,RQIKIWFQNARMKWKK,Ala52 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1125,RQIKIWFQNRAMKWKK,Ala53 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1126,RQIKIWFQNRRAKWKK,Ala54 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1127,RQIKIWFQNRRMAWKK,Ala55 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1128,RQIKIWFQNRRMKAKK,Ala56 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1129,RQIKIWFQNRRMKWAK,Ala57 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1130,RQIKIWFQNRRMKWKA,Ala58 substitution mutant of pAntp (43-58),16,L,Linear,Protein derived,Probably Amphipathic,Biotinylation (Labeled with Biotinyl-beta-Alanine),Amidation,NA,Biotin,10784032
+1131,CRQIKIWFPNRRMKWKKC,Reduced linear penetratin,18,L,Linear,Protein derived,Amphipathic,Biotinylation (Labeled with Biotinyl-Ahx),Unknown,NA,Biotin,10784032
+1132,RQIKIWFPNRRMKWKK,Penetratin (pAntp) (43-58),16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),10784032
+1133,RQIKIWFQNRRMKWKK,Penetratin (pAntp) (43-58),16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12849987
+1134,RQIKIFFQNRRMKFKK,Pen2W2F,16,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12849987
+1135,RQIRIWFQNRRMRWRR,PenArg,16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12849987
+1137,GRKKRRQRRRPWQ,TatP59W,13,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12849987
+1138,GRKKRRQRRRPWQ,TatP59W,13,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12849987
+1139,RQIRIWFQNRRMRWRR,7Arg,16,L,Linear,Protein derived,Amphipathic,NA,NA,NA,NA,18045726
+1140,RRWRRWWRRWWRRWRR,W/R,16,L,Linear,Protein derived,Amphipathic,NA,NA,NA,NA,18045726
+1141,RQIKIWFQNMRRKWKK,Met-Arg,16,L,Linear,Protein derived,Amphipathic,NA,NA,NA,NA,18045726
+1142,KMDCRWRWKCCKK,Crot (27-39),13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1143,MDCRWRWKCCKK,Crot (27-39) derevative,12,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1144,DCRWRWKCCKK,Crot (27-39) derevative,11,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1145,CRWRWKCCKK,CyLoP-1,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1146,RWRWKCCKK,Crot (27-39) derevative,9,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1147,KMDCRWRWKCKK,Crot (27-39) derevative,12,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1148,KMDCRWRWKKK,Crot (27-39) derevative,11,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1149,KMDRWRWKKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1150,KDCRWRWKCCKK,Crot (27-39) derevative,12,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1151,KCRWRWKCCKK,Crot (27-39) derevative,11,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1152,KRWRWKCCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1153,MDCRWRWKXCKK,Crot (27-39) derevative,12,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1154,DCRWRWKXCKK,Crot (27-39) derevative,11,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1155,DCRWRWKCXKK,Crot (27-39) derevative,11,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1156,CRWRWKXCKK,Crot (27-39) derevative,10,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1157,CRWRWKCXKK,Crot (27-39) derevative,10,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1158,RWRWKXCKK,Crot (27-39) derevative,9,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1159,MDCRWRWKXXKK,Crot (27-39) derevative,12,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1160,DCRWRWKXXKK,Crot (27-39) derevative,11,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1161,CRWRWKXXKK,Crot (27-39) derevative,10,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1162,RWRWKXXKK,Crot (27-39) derevative,9,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1163,CRWRWKCSKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1164,SRWRWKCCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1165,SRWRWKCSKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1166,SRWRWKSCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1167,CRWRWKSSKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1168,SRWRWKSSKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1169,CRFRWKCCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1170,CRWRFKCCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1171,CRFRFKCCKK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1172,crwrwkcckk,Crot (27-39) derevative,10,D,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1173,KCCKWRWRCK,Crot (27-39) derevative,10,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1174,kcckwrwrck,Crot (27-39) derevative,10,D,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1175,CrWRWKCCKK,Crot (27-39) derevative,10,Mix,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1176,CRwRWKCCKK,Crot (27-39) derevative,10,Mix,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1177,CRWrWKCCKK,Crot (27-39) derevative,10,Mix,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1178,CRWRwKCCKK,Crot (27-39) derevative,10,Mix,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1179,CrwrwKCCKK,Crot (27-39) derevative,10,Mix,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1180,CRWRWKCGCKK,Crot (27-39) derevative,11,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1181,KCGCRWRWKCGCKK,Crot (27-39) derevative,14,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1182,CRWRWKCG,Crot (27-39) derevative,8,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1183,KMDXRWRWKCCKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1184,KMDXRWRWKXCKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1185,KMDXRWRWKXXKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1186,KMDXRWRWKCXKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1187,MDCRWRWKCXKK,Crot (27-39) derevative,12,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1188,KMDCRWRWKCSKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1189,KMDCRWRWKSCKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1190,KMDSRWRWKCCKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1191,KMDCRWRWKSSKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1192,KMDSRWRWKSSKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1193,KMDSRWRWKSCKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1194,KMDSRWRWKCSKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1195,KMDCRWRPKCCKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1196,KMDCRPRPKCCKK,Crot (27-39) derevative,13,L,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1197,KMDXRPRPKCCKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1198,KMDXRPRPKXCKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1199,KMDXRPRPKCXKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1200,KMDCRPRPKXCKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1201,KMDCRPRPKCXKK,Crot (27-39) derevative,13,Modified,Linear,Protein derived,Cystein rich,Conjugation with K-FITC,Free,"X, α-amino-n-butyric acid",Fluorophore (FITC),21319732
+1202,RQIKIWFQNRRMKWKK,Penetratin (pAntp),16,L,Linear,Protein derived,Amphipathic,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1203,rkkrrqrrr,Tat (49-57),9,D,Linear,Protein derived,Cationic,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1204,rrrqrrkkr,Tat (57-49),9,D,Linear,Protein derived,Cationic,Conjugation with K-FITC,Free,NA,Fluorophore (FITC),21319732
+1206,RKKRRRESRKKRRRES,DPV3,16,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1207,GRPRESGKKRKRKRLKP,DPV6,17,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1208,GKRKKKGKLGKKRDP,DPV7,15,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1209,GKRKKKGKLGKKRPRSR,DPV7b,17,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1210,RKKRRRESRRARRSPRHL,DPV3/10,18,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1211,SRRARRSPRESGKKRKRKR,DPV10/6,19,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1212,VKRGLKLRHVRPRVTRMDV,DPV1047,19,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1213,SRRARRSPRHLGSG,DPV10,14,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1214,LRRERQSRLRRERQSR,DPV15,16,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1215,GAYDLRRRERQSRLRRRERQSR,DPV15b,22,L,Linear,Protein derived,Unknown,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1216,GRKKRRQRRRPPQ,Tat (48-60),13,L,Linear,Protein derived,Cationic,Cys addition,Free,NA,Protein (PO and IgG),15859953
+1217,VPMLK,Bip1,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1218,VPTLK,Bip2,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1219,VPALR,Bip3,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1220,VSALK,Bip4,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1221,PMLKE,Bip5,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1222,VPALK,Bip6,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1223,VSLKK,Bip7,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1224,VSGKK,Bip8,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1225,KLPVM,Bip9,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1226,IPMIK,Bip10,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1227,KLGVM,Bip11,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1228,KLPVT,Bip12,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1229,VPMIK,Bip13,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1230,IPALK,Bip14,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1231,IPMLK,Bip15,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1232,VPTLQ,Bip16,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1233,QLPVM,Bip17,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1234,ELPVM,Bip18,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1235,VPTLE,Bip19,5,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1236,vptlk,Bip20,5,D,Linear,Protein derived,Unknown,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),21359136
+1238,AYRIKPTFRRLKWKYKGKFW,L1 (Ala32 substitution mutant of LALF (32-51)),20,L,Linear,Protein derived,Cationic amphipathic,Biotinylation,Free,NA,Biotin,19908203
+1239,HARIKPTFRRLKWKYKGKFW,L2 (Ala33 substitution mutant of LALF (32-51)),20,L,Linear,Protein derived,Cationic amphipathic,Biotinylation,Free,NA,Biotin,19908203
+1240,HYRIKPTARRLKWKYKGKFW,L8 (Ala39 substitution mutant of LALF (32-51)),20,L,Linear,Protein derived,Cationic amphipathic,Biotinylation,Free,NA,Biotin,19908203
+1241,HYRIKPTFRRLAWKYKGKFW,L12 (Ala43 substitution mutant of LALF (32-51)),20,L,Linear,Protein derived,Cationic amphipathic,Biotinylation,Free,NA,Biotin,19908203
+1242,HYRIKPTFRRLKWKYKGKFA,L20 (Ala51 substitution mutant of LALF (32-51)),20,L,Linear,Protein derived,Cationic amphipathic,Biotinylation,Free,NA,Biotin,19908203
+1243,VNADIKATTVFGGKYVSLTTP,Inv1,21,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1244,GKYVSLTTPKNPTKRRITPKDV,Inv2,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1245,TKRRITPKDVIDVRSVTTEINT,Inv3,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1246,RSVTTEINTLFQTLTSIAEKVDP,Inv4,23,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1247,AEKVDPVKLNLTLSAAAEALTGLGDK,Inv5,26,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1248,GLGDKFGESIVNANTVLDDLNSRMPQSRHDIQQL,Inv6,34,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1249,GDVYADAAPDLFDFLDSSVTTARTINA,Inv7,27,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1250,ARTINAQQAELDSALLAAAGFGNTTADVFDRG,Inv8,32,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1251,ADVFDRGGPYLQRGVADLVPTATLLDTYSP,Inv9,30,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1252,LDTYSPELFCTIRNFYDADRPDRGAAA,Inv10,27,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1253,TKRRITPKDVIDVRSVTTEINT,Inv11,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1254,TKRRITPDDVIDVRSVTTEINT,Inv3.3,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1255,TKRRITPKKVIDVRSVTTEINT,Inv3.4,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1256,TKRRITPKDVIDVRSVTTKINT,Inv3.5,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1257,TKRRITPKDVIDV,Inv3.6,13,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1258,TKRRITPKDVIDVESVTTEINT,Inv3.7,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1259,TARRITPKDVIDVRSVTTEINT,Inv3.8,22,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1260,TKAARITPKDVIDVRSVTTEINT,Inv3.9,23,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1261,HHHHHHTKRRITPKDVIDVRSVTTEINT,Inv3.10,28,L,Linear,Protein derived,Unknown,Free (peptide coated FITC labelled microspheres),Free,NA,Nanoparticle [(FITC)-labeled latex microspheres],16620748
+1295,YGRKKKRRQRRR,Tat,12,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),19956900
+1296,LLIILRRRIRKQAHAHSK,pVEC,18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1297,ALIILRRRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1298,LAIILRRRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1299,LLAILRRRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1300,LLIALRRRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1301,LLIIARRRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1302,LLIILARRIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1303,LLIILRARIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1304,LLIILRRAIRKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1305,LLIILRRRARKQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1306,LLIILRRRIARKQAHAHSK,pVEC mutant,19,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1307,LLIILRRRIRAQAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1308,LLIILRRRIRKAAHAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1309,LLIILRRRIRKQaHAHSK,pVEC mutant,18,Mix,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1310,LLIILRRRIRKQAAAHSK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1311,LLIILRRRIRKQAHaHSK,pVEC mutant,18,Mix,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1312,LLIILRRRIRKQAHAASK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1313,LLIILRRRIRKQAHAHAK,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1314,LLIILRRRIRKQAHAHSA,pVEC mutant,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1315,KSHAHAQKRIRRRLIILL,Retro-pVEC,18,L,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1316,lliilrrrirkqahahsk,D form of pVEC,18,D,Linear,Protein derived,Probably Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),16808894
+1319,RRIRPRP,Bac1-7,7,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1320,RRIRPRPPRLPRPRP,Bac-1-15,15,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1321,RRIRPRPPRLPRPRPRPLPFPRPG,Bac1-24,24,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1322,RRIRPRPPRLPRPRPRP,Bac1-17,17,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1323,PRPPRLPRPRPRPLPFPRPG,Bac5-24,20,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1324,PPRLPRPRPRPLPFPRPG,Bac7-24,18,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1325,RLPRPRPRPLPFPRPG,Bac9-24,16,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1326,PRPRPRPLPFPRPG,Bac11-24,14,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1327,PRPRPLPFPRPG,Bac13-24,12,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1328,PRPLPFPRPG,Bac15-24,10,L,Linear,Protein derived,Antimicrobial,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1329,RKKRRQRRR,Tat (49-57),9,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12450378
+1330,RQGAARVTSWLGRQLRIAGKRLEGRSK,Erns1,27,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1331,RVTSWLGRQLRIAGKRLEGRSK,Erns2,22,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1332,GRQLRIAGKRLEGRSK,Erns3,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1333,RRVTSWLGRQLRIAGKRLEGRSK,Erns4,23,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1334,RVRSWLGRQLRIAGKRLEGRSK,Erns5,22,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1335,GRQLRIAGKRLRGRSK,Erns6,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1336,GRQLRIAGRRLRGRSR,Erns7,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1337,GRQLRRAGRRLRGRSR,Erns8,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1338,GRQLRIAGRRLRRRSR,Erns9,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1339,GRQLRRAGRRLRRRSR,Erns10,16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1340,RQLRIAGRRLRGRSR,Erns11,15,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1341,rsrgrlrrgairlqrg,Erns12,16,D,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1342,KLIKGRTPIKFGKADCDRPPKHSQNGMGK,Res1,29,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1343,KLIKGRTPIKFGKADCDRPPKHSQNGM,Res2,27,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1344,KLIKGRTPIKFGKADCDRPPKHSQNGK,Res3,27,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1345,KGRTPIKFGKADCDRPPKHSQNGMGK,Res4,26,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1346,KLIKGRTPIKFGKADCDRPPKHSGK,Res5,25,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1347,KLIKGRTPIKFGKARCRRPPKHSGK,Res6,25,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1348,KLIKGRTPIKFGK,Res7,13,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1349,KRIPNKKPGKKTTTKPTKKPTIKTTKKDLKPQTTKPK,RSV-A1,37,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1350,KRIPNKKPGKKTTTKPTKKPTIKTTKKDLK,RSV-A2,30,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1351,KRIPNKKPGKKTTTKPTKKPTIKTTKK,RSV-A3,27,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1352,KRIPNKKPGKKTTTKPTKKPTIK,RSV-A4,23,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1353,KRIPNKKPGKKTTTKPTKK,RSV-A5,19,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1354,KRIPNKKPGKKT,RSV-A6,12,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1355,KRIPNKKPGKK,RSV-A7,11,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1356,KRIPNKKPKK,RSV-A8,10,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1357,RRIPNRRPRR,RSV-A9,10,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1358,KKPGKKTTTKPTKKPTIKTTKK,RSV-A10,22,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1359,KKPGKKTTTKPTKK,RSV-A11,14,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1360,KKPTIKTTKK,RSV-A12,10,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1361,KKTTTKPTKK,RSV-A13,10,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1362,KSICKTIPSNKPKKK,RSV-B1,15,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1363,KTIPSNKPKKK,RSV-B2,11,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1364,KPRSKNPPKKPK,RSV-B3,12,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1370,DRRRRGSRPSGAERRRRRAAAA,RSG 1.2,22,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1371,DRRRRGSRPSGAERRRR,RSG 1.2 truncated,17,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1372,QTRRRERRAEKQAQW,Lambda-N (48-62),15,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1373,RRRERRAEK,Lambda-N Truncated (50-58),9,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1374,NRARRNRRRVR,FHV-TA (39-49),11,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1375,RTRRNRRRVR,FHV (40-49),10,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1376,RNRSRHRR,Alpha Virus P130 (227-234),8,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1377,KCPSRRPKR,ALPHA Virus nucelocapsid (311-320),9,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1378,KRPAAIKKAGQAKKKK,Bipartite nucleoplasmin NLS (155-170),16,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1379,TRRSKRRSHRKF,Herpesvirus 8 k8 protein (124-135),12,L,Linear,Protein derived,Cationic,Biotinylation,Amidation,NA,Biotin,15209161
+1380,RAGLQFPVGRVHRLLRK,Buforin-II,17,L,Linear,Protein derived,Antimicrobial,Biotinylation,Amidation,NA,Fluorophore (fluorescein),15209161
+1381,MVRRFLVTLRIRRACGPPRVRV,ARF(1-22),22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1382,FVTRGCPRRLVARLIRVMVPRR,ARF(1-22) scr,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1383,VRRFLVTLRIRRA,ARF(2-14),13,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1384,RVRILARFLRTRV,ARF(2-14) scr,13,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1385,RVRVFVVHIPRLT,ARF(19-31),13,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1386,VIRVHFRLPVRTV,ARF(19-31) scr,13,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1387,MVRRFLVTLRIRRACGPPRVRVFVVHIPRLTGEWAAP,ARF(1-37),37,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1388,FRVPLRIRPCVVAPRLVMVRHTFGRIARWVAGPLETR,ARF(1-37) scr,37,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17984975
+1390,GTKMIFVGIKKKEERADLIAYLKKA,Cyt C 71-101,25,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1391,KKKEERADLIAYLKKA,Cyt C 86-101,16,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1392,KMIFVGIKKKEERA,Cyt 79-92,14,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1393,KMIFVGIKKK,Cyt 79-88,10,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1394,EKGKKIFIMK,Cyt 4-13,10,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1395,KGKKIFIMK,Cyt 5-13,9,L,Linear,Protein derived,Unknown,N-terminal acylation of peptide with 6-carboxy-tetramethylrhodamine,Amidation,NA,Fluorophore (6-carboxy-tetramethylrhodamine),20659686
+1396,RRRRNRTRRNRRRVRGC,FHV coat (35-49),17,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1397,TRRQRTRRARRNRGC,HTLV -II Rex(4-16),15,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1398,KMTRAQRRAAARRNRWTARGC,BMV GAG,21,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1399,KLTRAQRRAAARKNKRNTRGC,CCMV GAG,21,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1400,NAKTRRHERRRKLAIERGC,P22 N,19,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1401,MDAQTRRRERRAEKQAQWKAANGC,LAMBDA N (1-22),24,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1402,TAKTRYKARRAELIAERRGC,PHI 21 N (12-29),20,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1403,SQMTRQARRLYBGC,Human U2AF (142-153),14,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1404,KRRIRRERNKMAAAKSRNRRRELTDTGC,Human c Fos (139-164),28,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1405,RIKAERKRMRNRIAASKSRKRKLERIARGC,Human c Jun (252-279),30,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1406,KRARNTEAARRSRARKLQRMKQGC,Yeast GCN 4 (231-252),24,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein by C-terminal Gly Cys amide,NA,Fluorophore (fluorescein),11084031
+1407,KCFQWQRNMRKVRGPPVSCIKR,hLF peptide,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1408,KCFQWQRNMRKVRGPPVSC,M1,19,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1409,KCFQWQRNMRKVRGPPVSSIKR,M2,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1410,KCFQWQRNMRKVR,M3,13,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1411,FQWQRNMRKVRGPPVS,M4,16,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1412,QWQRNMRKVRGPPVSCIKR,M5,19,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1413,QWQRNMRKVR,M6,10,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1415,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1416,KCFMWQEMLNKAGVPKLRCARK,rLF,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),19858187
+1420,GLWRALWRLLRSLWRLLWRA,CADY,20,L,Linear,Protein derived,Amphipathic,Acetylation,Conjugation with FITC at C-terminal cysteamide,NA,Fluorophore (FITC),18957965
+1421,GLWWRLWWRLRSWFRLWFRA,CADY2,20,L,Linear,Protein derived,Amphipathic,Acetylation,Conjugation with FITC at C-terminal cysteamide,NA,Fluorophore (FITC),20188697
+1422,DAATATRGRSAASRPTQRPRAPARSASRPRRPVE,VP22,34,L,Linear,Protein derived,Unknown,NA,NA,NA,NA,9008163
+1425,AKVKDEPQRRSARLSAKPAPPKPEPKPKKAPAKK,F3,34,L,Linear,Protein derived,Unknown,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Fluorophore (fluorescein),12032302
+1426,akvkdepqrrsarlsakpappkpepkpkkapakk,D form of F3,34,D,Linear,Protein derived,Unknown,Conjugation with fluorescein with 6-aminohexanoic acid (Ahx) spacer,Free,NA,Protein (eGFP),12032302
+1427,PLSSIFSRIGDP,PreS2 (41-52),12,L,Linear,Protein derived,Amphipathic,Conjugation with EGFP,Free,NA,Protein (eGFP),10822301
+1428,PSSSSSSRIGDP,PreS2 3S Mutant,12,L,Linear,Protein derived,Non-amphipathic,Conjugation with EGFP,Free,NA,Fluorophore (fluorescein),10822301
+1429,vrlpppvrlpppvrlppp,D form of Sweat Arrow Protein (SAP),18,D,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),17635150
+1430,VELPPPVELPPPVELPPP,Sweet Arrow Protein (SAP) (E),18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein/ rhodamine B,Free,NA,Fluorophore (fluoresceine/ rhodamine),21365733
+1431,ALWMTLLKKVLKAAAKAALNAVLVGANA,Dermaseptin S4,28,L,Linear,Protein derived,Antimicrobial,Conjugation with rhodamine B,Amidation,NA,Fluorophore (rhodamine),12119035
+1432,ALWKTLLKKVLKA,S4(13),13,L,Linear,Protein derived,Antimicrobial,Conjugation with rhodamine B,Amidation,NA,Fluorophore (rhodamine),12119035
+1437,RQARRNRRRC,Rev ARM,10,L,Linear,Protein derived,Cationic,Conjugation with rhodamine B,Amidation,NA,Fluorophore (rhodamine),12119035
+1438,GRKKRRQRRRPPQC,Tat ARM,14,L,Linear,Protein derived,Cationic,Conjugation with rhodamine B,Amidation,NA,Fluorophore (rhodamine),12119035
+1443,GRKRKKRT,6-Oct,8,L,Linear,Protein derived,Cationic,Free,Conjugation with FITC,NA,Fluorophore (FITC),21029412
+1447,MVTVLFRRLRIRRACGPPRVRV,M918,22,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17622242
+1448,RQIKIWFQNRRMKWKK,Penetratin (pAntp) (43-58),16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),17622242
+1450,VQRKRQKLMP,NF-kB,10,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1451,SKKKKTKV,TFIIE BETA,8,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1452,GRKRKKRT,6-Oct,8,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1453,GKKKKRKREKL,TCF1-ALPHA,11,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1454,PKKKRKV,SV40,7,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1455,ERKKRRRE,HATF3,8,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1456,FKKFRKF,C.e SDC3,7,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12204694
+1457,LGTYTQDFNKFHTFPQTAIGVGAP,hCT (9â€“32),24,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1458,LGTYTQDFNKFHTFPQTAIGVGAP,hCT (9â€“32),24,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1459,YTQDFNKFHTFPQTAIGVGAP,hCT(12â€“32),21,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1460,DFNKFHTFPQTAIGVGAP,hCT(15â€“32),18,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1461,KFHTFPQTAIGVGAP,hCT (18â€“32),15,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1462,TFPQTAIGVGAP,hCT (21â€“32),12,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1463,GYGRKKRRQRRRG,Tat (47-57),13,L,Linear,Protein derived,Cationic,Carries an extra glycine and conjugation with fluores,Carries an extra glycine,NA,Fluorophore (fluorescein),15290867
+1464,GYGRKKRRQRRRG,Tat (47-57),13,L,Linear,Protein derived,Cationic,Carries an extra glycine and Conjugation with fluores,Carries an extra glycine,NA,Fluorophore (fluorescein),15290867
+1465,GYGRKKRRQRRRG,Tat (47-57),13,L,Linear,Protein derived,Cationic,Carries an extra glycine and Conjugation with fluores,Carries an extra glycine,NA,Fluorophore (fluorescein),15290867
+1466,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1467,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1468,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),15290867
+1469,FLGKKFKKYFLQLLK,M 511,15,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1470,FLIFIRVICIVIAKLKANLMCKT,G53-4,23,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1471,KKAAQIRSQVMTHLRVI,APP521,17,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1472,YIVLRRRRKRVNTKRS,M591,16,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1473,RRKLSQQKEKK,M593,11,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1474,VQAILRRNWNQYKIQ,M630,15,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1477,KLPCRSNTFLNIFRRKKPG,G55-9,19,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1478,KKICTRKPRFMSAWAQ,M867,16,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1479,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1480,RGGRLSYSRRRFSTSTGR,SynB1,18,L,Linear,Protein derived,Antimicrobial,Conjugation with NBD and TAMRA,Free,NA,Fluorophore (NBD and TAMRA),12783857
+1481,rggrlsysrrrfststgr,D-SynB1,18,D,Linear,Protein derived,Antimicrobial,Conjugation with NBD,Free,NA,Fluorophore (NBD),12783857
+1482,RRLSYSRRRF,SynB3,10,L,Linear,Protein derived,Antimicrobial,Conjugation with NBD and TAMRA,Free,NA,Fluorophore (NBD and TAMRA),12783857
+1483,rrlsysrrrf,D-SynB3,10,D,Linear,Protein derived,Antimicrobial,Conjugation with NBD,Free,NA,Fluorophore (NBD),12783857
+1484,RGGRLAYLRRRWAVLGR,SynB5,17,L,Linear,Protein derived,Antimicrobial,Conjugation with NBD and TAMRA,Free,NA,Fluorophore (NBD and TAMRA),12783857
+1485,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with NBD and TAMRA,Free,NA,Fluorophore (NBD and TAMRA),12783857
+1486,MANLGYWLLALFVTMWTDVGLCKKRPKP,Mouse Prp (1-28),28,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12435392
+1487,MANLGCWMLVLFVATWSDLGLCKKRPKP,Human Prp (1-28),28,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12435392
+1488,MVKSKIGSWILVLFVAMWSDVGLCKKRPKP,Bovine Prp (1-30),30,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),12435392
+1489,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTESC,LL-37,38,L,Linear,Protein derived,Antimicrobial,NA,Amidation,NA,Nucleic acid,14963039
+1490,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Biotinylation,Amidation,NA,Biotin,11716681
+1491,RVIRVWFQNKRCKDKK,pISL,16,L,Linear,Protein derived,Amphipathic,Biotinylation,Amidation,NA,Biotin,11716681
+1492,GIGKFLHSAKKWGKAFVGQIMNC,MG2d,23,L,Linear,Protein derived,Antimicrobial,Free,Conjugation with Texas Red,NA,Fluorophore (Texas Red),12417587
+1493,TRSSRAGLQWPVGRVHRLLRKGGC,BF2d,24,L,Linear,Protein derived,Antimicrobial,Free,Conjugation with Texas Red,NA,Fluorophore (Texas Red),12417587
+1494,YGRKKRRQRRR,Tat (47-57),11,L,Linear,Protein derived,Cationic,Conjugation with Texas red,Free,NA,Fluorophore (Texas Red),12417587
+1495,RHIKIWFQNRRMKWKK,PDX -1-PTD,16,L,Linear,Protein derived,Amphipathic,Conjugation with FITC,Free,NA,Fluorophore (FITC),12829640
+1496,RKKRRQRRR,Tat (49-57),9,L,Linear,Protein derived,Cationic,Free,Conjugation with GFP,NA,Protein (GFP),11211880
+1497,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Free,Conjugation with GFP,NA,Protein (GFP),11211880
+1498,SKRTRQTYTRYQTLELEKEFHFNRYITRRRRIDIANALSLSERQIKIWFQNRRMKSKKDR,Fushi- tarazu (254-313),60,L,Linear,Protein derived,Amphipathic,Free,Conjugation with GFP,NA,Protein (GFP),11211880
+1499,EKRPRTAFSSEQLARLKREFNENRYLTTERRRQQLSSELGLNEAQIKIWFQNKRAKIKKST,Engrailed (454-513),61,L,Linear,Protein derived,Amphipathic,Free,Conjugation with GFP,NA,Protein (GFP),11211880
+1500,GRRRRRRRRRPPQ,R9-TAT,13,L,Linear,Protein derived,Cationic,Free,Conjugation with fluorescein at cysteine,NA,Fluorophore (fluorescein),11084031
+1503,MLLLTRRRST,BagP,10,L,Linear,Protein derived,Cationic,Biotinylation or Conjugation with TMR,Free,NA,Fluorophor (TMR),16808988
+1506,GLRKRLRKFRNKIKEK,Sc18,16,L,Linear,Protein derived,Cationic amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),0
+1509,VRLPPP,PolyP 1,6,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1510,VRLPPPVRLPPP,PolyP 2,12,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1511,VRLPPPVRLPPPVRLPPP,PolyP 3 (SAP),18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1512,VHLPPP,PolyP 4,6,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1513,VHLPPPVHLPPP,PolyP 5,12,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1514,VHLPPPVHLPPPVHLPPP,PolyP 6,18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1515,VKLPPP,PolyP 7,6,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1516,VKLPPPVKLPPP,PolyP 8,12,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1517,VKLPPPVKLPPPVKLPPP,PolyP 9,18,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),15054781
+1518,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with hca (4-(7-hydroxycoumaryl)-acetyl),Amidation,NA,Fluorophore [hca (4-(7-hydroxycoumaryl)-acetyl)],19552459
+1519,RQIKIFFQNRRMKWKK,pAntp mutant,16,L,Linear,Protein derived,Amphipathic,Conjugation with hca (4-(7-hydroxycoumaryl)-acetyl),Amidation,NA,Fluorophore [hca (4-(7-hydroxycoumaryl)-acetyl)],19552459
+1520,ASMWERVKSIIKSSLAAASNI,FHV Peptide,21,L,Linear,Protein derived,Unknown,Conjugation with hca (4-(7-hydroxycoumaryl)-acetyl),Amidation,NA,Fluorophore [hca (4-(7-hydroxycoumaryl)-acetyl)],19552459
+1521,ASMWERVKSIIKSSLAAASNI,FHV gamma peptide,21,L,Linear,Protein derived,Unknown,NA,NA,NA,NA,10381406
+1523,CSIPPEVKFNPFVYLI,C105Y,16,L,Linear,Protein derived,Unknown,Conjugation with fluorescein/FITC,Amidation,NA,Fluorophore (fluorescein/ FITC),16272160
+1524,csippevkfnpfvyli,D form of C105Y,16,D,Linear,Protein derived,Unknown,Conjugation with fluorescein/FITC,Amidation,NA,Fluorophore (fluorescein/ FITC),16272160
+1525,PFVYLI,C105Y derivative,6,L,Linear,Protein derived,Unknown,Conjugation with fluorescein/FITC,Amidation,NA,Fluorophore (fluorescein/ FITC),16272160
+1526,NKPILVFY,SRAM C105Y,8,L,Linear,Protein derived,Unknown,Conjugation with fluorescein/FITC,Amidation,NA,Fluorophore (fluorescein/ FITC),16272160
+1527,YKQCHKKGGKKGSG,(1-9)-(38-42) Crot,14,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),18983137
+1528,YKQCHKKGGXKKGSG,(1-9)-Ahx-(38-42) Crot,15,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),18983137
+1529,GSGKKGGKKHCQKY,(42-38)-(9-1) Crot,14,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),18983137
+1530,GSGKKGGKKICQKY,D form of (1-9)-(38-42) Crot,14,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),18983137
+1533,LIRLWSHLIHIWFQNRRLKWKKK,EB-1,23,L,Linear,Protein derived,Amphipathic,NA,Amidation,NA,Nucleic acid (siRNA),17463227
+1538,AAVALLPAVLLALLAP,MTS,16,L,Linear,Protein derived,Hydrophobic,NA,NA,NA,NA,7782278
+1548,CGAYDLRRRERQSRLRRRERQSR,DPV15b,23,L,Linear,Protein derived,Unknown,NA,NA,NA,Nucleic acid (siRNA),0
+1549,RKKRRRESRKKRRRESC,DPV3,17,L,Linear,Protein derived,Unknown,NA,NA,NA,Nucleic acid (siRNA),0
+1550,CVKRGLKLRHVRPRVTRDV,DPV1048,19,L,Linear,Protein derived,Unknown,NA,NA,NA,Nucleic acid (siRNA),0
+1551,CRQIKIWFQNRRMKWKK,P16,17,L,Linear,Protein derived,Unknown,NA,NA,NA,Nucleic acid (siRNA),0
+1553,PPKKSAQCLRYKKPE,Secretory leukoprotease inhibitor derived PTD,15,L,Linear,Protein derived,Unknown,Conjugation with FITC,NA,NA,Fluorophore (FITC),0
+1554,DPVDTPNPTRRKPGK,Secretory leukoprotease inhibitor derived PTD,15,L,Linear,Protein derived,Unknown,Conjugation with FITC,NA,NA,Fluorophore (FITC),0
+1555,KRVSRNKSEKKRR,hClock-(35-47),13,L,Linear,Protein derived,Cationic,Conjugation with FITC,NA,NA,Fluorophore (FITC),15346201
+1556,GRRHHCRSKAKRSRHH,hPER1- PTD (830-846) NLS,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1557,SARHHCRSKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1558,SRAHHCRSKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1559,SRRAHCRSKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1560,SRRHACRSKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1561,SRRHHARSKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1562,SRRHHCRAKAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1563,SRRHHCRSAAKRSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1564,SRRHHCRSKAARSRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1565,SRRHHCRSKAKASRHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1566,SRRHHCRSKAKRARHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1567,SRRHHCRSKAKRSAHH,hPER1-PTD alanine subsitution mutant,16,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1568,RRHHCRSKAKRSR,hPER1-PTD,13,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1569,GRKGKHKRKKLP,hPER3 NLS,12,L,Linear,Protein derived,Unknown,Biotinylation,Free,NA,Biotin,15781181
+1571,GKRVAKRKLIEQNRERRR,Thyroid A-1,18,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1572,GRKLKKKKNEKEDKRPRT,HME-1,18,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1573,GKKTNLFSALIKKKKTA,ABL-1,17,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1574,GRRERNKMAAAKCRNRRR,Nucleoplasmin X,18,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1575,GKRARNTEAARRSRARKL,GCN-4,18,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1576,GRRRRATAKYRTAH,HEN1/NSLC1,14,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1577,GKRRRRATAKYRSAH,HEN2/NSLC2,15,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1578,GRRRRKRLSHRT,HNF3,12,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1579,GRRRRRERNK,cAMP dependent TF,10,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1580,GKHRHERGHHRDRRER,Cyclin L ania-6a,16,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1581,GKKKRKLSNRESAKRSR,beta Zip TF,17,L,Linear,Protein derived,Cationic,Biotinylation,Free,NA,Biotin,0
+1582,MIIYRDLISH,TCTP (1-10) deletion mutant,10,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1583,MIIYRDLIS,TCTP (1-9) deletion mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1584,MIIYRDLI,TCTP (1-8) deletion mutant,8,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1585,IIYRDLISH,TCTP (2-10) deletion mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1586,MIIYRDL,TCTP (1-7) deletion mutant,7,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1587,MIIYRD,TCTP (1-6) deletion mutant,6,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1588,IYRDLISH,TCTP (3-10) deletion mutant,8,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1589,AIIYRDLIS,TCTP(1-9) M1A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1590,MAIYRDLIS,TCTP(I-9) I2A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1591,MIAYRDLIS,TCTP(1-9 I3A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1592,MIIARDLIS,TCTP(1-9) Y4A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1593,MIIYADLIS,TCTP(1-9) R5A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1594,MIIYRALIS,TCTP(1-9) D6A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1595,MIIYRDAIS,TCTP(1-9) L7A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1596,MIIYRDLAS,TCTP(1-9) I8A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1597,MIIYRDLIA,TCTP(1-9) S9A subsetution mutant,9,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Amidation,NA,Fluorophore (Rhodamine),21440624
+1598,MIIYRDLISKK,TCTP-CPP 1,11,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1599,MIIYRDKKSH,TCTP-CPP 2,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1600,MIIFRDLISH,TCTP-CPP 3,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1601,MIISRDLISH,TCTP-CPP 4,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1602,QIISRDLISH,TCTP-CPP 5,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1603,CIISRDLISH,TCTP-CPP 6,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1604,MIIYRALISHKK,TCTP-CPP 7,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1605,MIIYRIAASHKK,TCTP-CPP 8,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1606,MIIRRDLISE,TCTP-CPP 9,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1607,MIIYRAEISH,TCTP-CPP 10,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1608,MIIYARRAEE,TCTP-CPP 11,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1609,MIIFRIAASHKK,TCTP-CPP 12,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1610,MIIFRALISHKK,TCTP-CPP 13,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1611,MIIFRAAASHKK,TCTP-CPP 14,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1612,FIIFRIAASHKK,TCTP-CPP 15,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1613,LIIFRIAASHKK,TCTP-CPP 16,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1614,WIIFRIAASHKK,TCTP-CPP 17,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1615,WIIFRAAASHKK,TCTP-CPP 18,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1616,WIIFRALISHKK,TCTP-CPP 19,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1617,MIIFRIAAYHKK,TCTP-CPP 20,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1618,WIIFRIAAYHKK,TCTP-CPP 21,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1619,MIIFRIAATHKK,TCTP-CPP 22,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1620,WIIFRIAATHKK,TCTP-CPP 23,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1621,MIIFKIAASHKK,TCTP-CPP 24,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1622,WIIFKIAASHKK,TCTP-CPP 25,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1623,MIIFAIAASHKK,TCTP-CPP 26,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1624,LIIFRILISHKK,TCTP-CPP 27,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1625,MIIFRILISHKK,TCTP-CPP 28,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1626,LIIFRILISHRR,TCTP-CPP 29,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1627,LIIFRILISHHH,TCTP-CPP 30,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1628,LIIFRILISHK,TCTP-CPP 31,11,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1629,LIIFRILISHR,TCTP-CPP 32,11,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1630,LIIFRILISH,TCTP-CPP 33,10,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1631,LIIFAIAASHKK,TCTP-CPP 34,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1632,LIIFAILISHKK,TCTP-CPP 35,12,L,Linear,Protein derived,Unknown,Conjugation with FITC,Amidation,NA,Fluorophore (FITC),21440624
+1643,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Unknown,Free,Conjugation with nanoparticle,NA,Nanoparticle,0
+1791,AAVALLPAVLLALLAK,MPS,16,L,Linear,Protein derived,Unknown,NA,Unknown,NA,NA,11923291
+1792,AHALCLTERQIKIWFQNRRMKWKKEN,pAntpHD,26,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),8105471
+1793,AHALCPPERQIKIWFQNRRMKWKKEN,pAntpHD 40P2,26,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),8105471
+1794,AYALCLTERQIKIWFANRRMKWKKEN,pAntpHD 50A,26,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),8105471
+1795,GGVCPKILKKCRRDSDCPGACICRGNGYCGSGSD,MCoTI-II(MCo),34,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1796,GGVCPKILAACRRDSDCPGACICRGNGYCGSGSD,MCoKKAA double mutant,34,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1797,GGVCPAILKKCRRDSDCPGACICRGNGYCGSGSD,MCoK6A mutant,34,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1798,GGVCPKILAKCRRDSDCPGACICRGNGYCGSGSD,MCoK9A mutant,34,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1799,GGVCPKILKACRRDSDCPGACICRGNGYCGSGSD,MCoK10A mutant,34,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1800,GLPVCGETCVGGTCNTPGCKCSWPVCTRN,kT20K mutant,29,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1801,GLPVCGETCVGGTCNTPGCTCSWPKCTRN,kV25K mutant,29,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1802,GRCTKSIPPICFPD,SFTI-1,14,L,Cyclic,Protein derived,Unknown,Conjugation with Alexa-488,Cyclization,NA,Fluorophore (Alexa-488),21873420
+1803,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),15937518
+1804,RQIKIWFQNRRMKWKKTYADFIASGRTGRRNAI,pAntpâ€“PKI,33,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),15937518
+1805,GRKKRRQRRRPPQ,Tat,13,L,Linear,Protein derived,Cationic,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),15937518
+1806,GRKKRRQRRRPPQTYADFIASGRTGRRNAI,Tat-PKI,30,L,Linear,Protein derived,Unknown,Conjugation with rhodamine B,Free,NA,Fluorophore (rhodamine),15937518
+1820,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1821,RQIKIWFQNRRMKWKK,Penetratin {pAntp-(43-58)},16,L,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1822,rqikiwfqnrrmkwkk,Penetratin {pAntp-(43-58)},16,D,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1823,rqikiwfqnrrmkwkk,Penetratin {pAntp-(43-58)},16,D,Linear,Protein derived,Amphipathic,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1824,KCFQWQRNMRKVRGPPVSCIKR,hLF(38-59) peptide,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1825,KCFQWQRNMRKVRGPPVSCIKR,hLF(38-59) peptide,22,L,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1826,kcfqwqrnmrkvrgppvscikr,hLF(38-59) peptide,22,D,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1827,kcfqwqrnmrkvrgppvscikr,hLF(38-59) peptide,22,D,Linear,Protein derived,Unknown,Conjugation with fluorescein,Amidation,NA,Fluorophore (fluorescein),21867915
+1831,GRKKRRQRRRPPQC,HIV-1 Tat (48-60),14,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1832,TRQARRNRRRRWRERQRGC,HIV-1 Rev (34-50),19,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1833,RRRRNRTRRNRRRVRGC,FHV coat (35-49),17,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1834,KMTRAQRRAAARRNRWTARGC,BMV Gag (7-25),21,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1835,TRRQRTRRARRNRGC,HTLV-II Rex (4-16),15,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1836,RIKAERKRMRNRIAASKSRKRKLERIARGC,Human cJun (252-279),30,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1837,KRRIRRERNKMAAAKSRNRRRELTDTGC,Human cFos (139-164),28,L,Linear,Protein derived,Cationic,Free,Conjugation with Alexa 488 at glycyl cysteine sequence,NA,Fluorophore (Alexa-488),19707187
+1838,WLRRIKAWLRRIKALNRQLGVAA,MK2i,23,L,Linear,Protein derived,Unknown,NA,Free,NA,NA,19289101
+1839,crkkrrqrrr,cTat,10,D,Linear,Protein derived,Cationic,Conjugated with Insulin,Free,NA,Protein (Insulin),19228019
+1842,GRKKRRQRRRPP,Tat (48-59),12,L,Linear,Protein derived,Cationic,Conjugation with fluorescein,Free,NA,Fluorophore (fluorescein),12411431
